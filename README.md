@@ -6,4 +6,4 @@ With step-by-step instructions, you'll learn how to build a custom dialog, imple
 
 Tutorial on YouTube: https://youtu.be/6M-bM1ih6gQ 
 
-![Month And Year Picker JC](https://user-images.githubusercontent.com/90105266/219945174-29310823-cc34-44c2-91b5-d848418e746e.png)
+![Month And Year Picker JC](https://user-images.githubusercontent.com/90105266/219946744-36a724b4-12cd-4935-9b75-e2451e9e4083.png)
