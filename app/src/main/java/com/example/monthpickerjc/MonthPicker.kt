@@ -170,7 +170,8 @@ fun MonthPicker(
 
                                     Text(
                                         text = it,
-                                        color = if (month == it) Color.White else Color.Black
+                                        color = if (month == it) Color.White else Color.Black,
+                                        fontWeight = FontWeight.Medium
                                     )
 
                                 }
